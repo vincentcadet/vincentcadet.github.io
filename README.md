@@ -1,3 +1,3 @@
-# vincentcadet.github.io-
+# vincentcadet.github.io
 
 Ressources en maths CSI2B
